@@ -1,16 +1,46 @@
-## Hi there 👋
+# Phillip
 
-<!--
-**PhillipTSX/PhillipTSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer based in Florida
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+I build things across multiple languages and enjoy making clean, fast, and functional projects.
+
+Favorite fruit: Oranges  
+Favorite place I've been: Montana  
+
+---
+
+## Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,c,python,java,rust,go,lua,php" />
+</p>
+
+---
+
+## Skills
+- Frontend and UI design (clean, dark themes)
+- Full-stack development
+- Game development and modding
+- Performance optimization
+- Problem solving and system design
+- Basic security awareness
+
+---
+
+## Interests
+- Building games and mods
+- Creating smooth, modern websites
+- Automation and scripting
+- Exploring new technologies
+
+---
+
+## Stats
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## Notes
+I like clean design, fast systems, and turning ideas into real projects.
