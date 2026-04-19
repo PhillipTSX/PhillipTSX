@@ -24,4 +24,4 @@ Favorite place I've been: Montana
 ---
 
 ## Notes
-I like clean design, fast systems, and turning ideas into real projects.
+sussy baka
