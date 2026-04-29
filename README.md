@@ -5,8 +5,6 @@ Developer based in Florida
 ---
 
 ## About
-I build things across multiple languages and enjoy making clean, fast, and functional projects.
-
 Favorite fruit: Oranges  
 Favorite place I've been: Montana  
 
